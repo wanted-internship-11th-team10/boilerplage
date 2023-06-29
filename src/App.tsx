@@ -5,13 +5,6 @@ import './App.css';
 
 function App() {
   const [count, setCount] = useState(0);
-  var a = 1;
-
-
-
-
-
-  a = 10;
 
   return (
     <>
