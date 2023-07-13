@@ -16,6 +16,7 @@
 
     /* Linting */
     "noImplicitAny": true,
+    "allowJs": true,
     "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
